@@ -1,2 +1,2 @@
 # Naruto
-nom de mon site : https://maxime-balansard.github.io/Naruto/
+nom de mon site : https://Maxime-Balansard.github.io/Naruto/
