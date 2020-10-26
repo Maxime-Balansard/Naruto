@@ -74,10 +74,12 @@ h1{
 }
 .signature{
   background-color: #ffaa22;
+  padding:20px;
   position:absolute;
   top:5px;
   box-shadow: 5px 1px 22px 20px rgba(0,0,0,0.29);
   right:5px ;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 
