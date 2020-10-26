@@ -6,7 +6,7 @@
 
  body {
   background: url(../img/konohabg.jpg);
-  color: rgb(250, 253, 247);
+  color: rgb(12, 12, 12);
   font-family: 'Permanent Marker', sans-serif;
 
   /** permet de centrer les éléments dans la page **/
@@ -21,10 +21,15 @@
 /** l'image fait toujours la même hauteur **/
 img{
   margin: 40px;
-  border: 1px solid yellow;
+  border: 6px solid yellow;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius:15px ;
+  border-bottom-right-radius: 15px;
   padding: 10px;
   height: 40vh;
   width: auto;
+
 }
 /** les titres ne sont pas trop grands **/
 h1{
